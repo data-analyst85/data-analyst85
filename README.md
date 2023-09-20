@@ -1,4 +1,12 @@
-- 👋 Hi, I’m @data-analyst85
+- 👋 Hi, I’m @data-analyst85, skilled data scientist in collecting, organizing, analyzing and interpreting various data. In-depth knowledge of research methodologies and executing big data project. Skilled in analysis of quantitative and qualitative dataset.
+
+IT Skills: Python, ML, DBMS, Excel.   
+
+Research: Data Science Research Methods, Data analysis, Pattern & Trend Identification, Visualization of Data Insights
+
+Statistical Skills: Predictive Modelling, Data Processing, ML Algorithms, Deep Learning
+
+Language Skills: English (fluent), Japanese (intermediate), Hindi (native)
 - 👀 I’m interested in Data Analysis  
 - 🌱 I’m currently learning Python and Business Analytics
 - 💞️ I’m looking to collaborate on business intelligence, control risk, risk management and financial reporting
