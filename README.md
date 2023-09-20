@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @data-analyst85
 - 👀 I’m interested in Python  
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Business Data Analysis
+- 💞️ I’m looking to collaborate on business intelligence, risk management, and control risk operations.
 - 📫 How to reach me sudeepkumar85@hotmail.com
 
 <!---
